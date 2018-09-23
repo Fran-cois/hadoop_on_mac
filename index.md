@@ -113,7 +113,7 @@ echo'
 ' > $hadoop_local_path/hdfs-site.xml
 ```
 ## Setup Hdfs
-Run this command  `hdfs namenode -format` !
+Run this command : `hdfs namenode -format` 
 ## Now we can start all the hadoop services :
 ```
 cd /usr/local/Cellar/hadoop/$hadoop_version/libexec/
